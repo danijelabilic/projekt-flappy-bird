@@ -1,5 +1,5 @@
 Flappy Bird - C++ Konzolna Igra
-Autor - Danijela Bilić
+
 Opis:
 
 Ovaj projekt predstavlja osnovnu verziju igre Flappy Bird implementiranu u C++ jeziku uz pomoć Windows API-ja za rad s konzolom.
@@ -9,14 +9,13 @@ Cilj igre je prolaziti kroz praznine između nizova cijevi koje se pomiču prema
 
 Instalacija:
 
-Projekt je razvijen koristeći Visual Studio 2022, pa je preporučeno koristiti isti alat za kompilaciju i izvođenje igre.
+Projekt je razvijen koristeći Visual Studio 2022.
 
 Upute za pokretanje:
 
     1.Otvorite projekt u Visual Studiu 2022.
-    2.Pokrenite proces kompilacije.
-    3.Pokrenite aplikaciju.
-    4.Slijedite prikazane upute kako biste birali opcije (započinjanje igre, prikaz uputa, izlaz iz aplikacije).
+    2.Pokrenite aplikaciju.
+    3.Slijedite prikazane upute kako biste birali opcije (započinjanje igre, prikaz uputa, izlaz iz aplikacije).
 
 Kontrole:
 
